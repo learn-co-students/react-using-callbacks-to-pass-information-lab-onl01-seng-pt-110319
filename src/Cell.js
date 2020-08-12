@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+/* import React, { Component } from 'react';
 
 export default class Cell extends Component {
   
@@ -17,3 +17,5 @@ export default class Cell extends Component {
   }
   
 }
+
+*?
